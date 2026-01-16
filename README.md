@@ -29,4 +29,5 @@ Advantages of Anaconda:
 •	Suitable for beginners and professionals
 ________________________________________
 Why python?
+
 <img width="616" height="390" alt="image" src="https://github.com/user-attachments/assets/29b6e28b-81af-417d-be68-3d5a16f017f2" />
