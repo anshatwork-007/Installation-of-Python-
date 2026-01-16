@@ -1,7 +1,7 @@
 # Installation-of-Python-
-Name: Ansh Yadav
-Branch: ENTC
-Batch: 2025-29
+##Name: Ansh Yadav
+###Branch: ENTC
+###Batch: 2025-29
 
 Experiment–1
 Title
