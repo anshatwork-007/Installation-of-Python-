@@ -1,22 +1,22 @@
 # Installation-of-Python-
-##Name: Ansh Yadav
-###Branch: ENTC
-###Batch: 2025-29
+## Name: Ansh Yadav
+### Branch: ENTC
+### Batch: 2025-29
 
-Experiment–1
+# Experiment–1
 Title
 Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
 ________________________________________
-Aim
+# Aim
 To study the basics of Python programming language, understand the Python execution environment, install Python and Jupyter Notebook using Anaconda distribution, and explore various Python IDEs including Google Colab.
 ________________________________________
-Objectives
-•	To understand Python features and applications
-•	To install Python and Jupyter Notebook using Anaconda
-•	To explore Python IDEs and environments
-•	To execute basic Python programs using Jupyter Notebook and Google Colab
+# Objectives
+#### •	To understand Python features and applications
+#### •	To install Python and Jupyter Notebook using Anaconda
+#### •	To explore Python IDEs and environments
+#### •	To execute basic Python programs using Jupyter Notebook and Google Colab
 ________________________________________
-Theory
+# Theory
 1. Introduction to Python
 Python is a high-level, interpreted, and object-oriented programming language widely used for data analysis, machine learning, automation, and scientific computing.
 ________________________________________
@@ -28,12 +28,12 @@ Advantages of Anaconda:
 •	Avoids dependency issues
 •	Suitable for beginners and professionals
 ________________________________________
-Why python?
+# Why python?
 
 <img width="616" height="390" alt="image" src="https://github.com/user-attachments/assets/29b6e28b-81af-417d-be68-3d5a16f017f2" />
 <img width="630" height="373" alt="image" src="https://github.com/user-attachments/assets/c242f2be-c6e9-4bd4-9d9c-bf6196d38b04" />
 
-Why Jupyter NoteBook?
+# Why Jupyter NoteBook?
 <img width="661" height="384" alt="image" src="https://github.com/user-attachments/assets/8dabef29-e29b-4121-908d-b75fbf70e324" />
 
 3. Installation of Anaconda and Jupyter Notebook
@@ -56,7 +56,7 @@ Step-1: Download Anaconda
 <img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/58157b63-b7cf-47de-8cfe-25bde0b1e5d2" />
 <img width="635" height="473" alt="image" src="https://github.com/user-attachments/assets/bb9f6964-a14f-4c00-ba5d-09e5eb4bdbc2" />
 
-Python IDEs
+# Python IDEs
 
 IDE	               Description
 IDLE	             Basic Python IDE
@@ -65,7 +65,7 @@ PyCharm	           Professional Python IDE
 VS Code	           Lightweight code editor
 Jupyter Notebook	 Interactive EDA environment
 
-Google Colab
+# Google Colab
 
 Google Colab is a cloud-based Python environment provided by Google.
 Advantages:
@@ -80,7 +80,8 @@ Steps to Use Google Colab:
 2.	Sign in using Google account
 3.	Create a new Python notebook
 
-Conclusion
+# Conclusion
+
 Python provides a flexible and powerful programming environment. Jupyter Notebook and Google Colab simplify learning and exploratory data analysis by providing interactive execution and visualization support.
 
 
